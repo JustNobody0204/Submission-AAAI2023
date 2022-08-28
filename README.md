@@ -6,5 +6,5 @@ The project runs on JAX. The virtual env should be installed based on the requir
             --config.model.model_name=WideResNet_28_10 --config.use_hybrid_training=True 
             --config.hybrid_config.p=0.6 --config.schedule_function_type=constant ......
 ***
-Please see the paper for more details of training and config file for more flags. If encountering any problems, contact us!
+Please see the paper for more details of training and config file for more flags. If encountering any problem, contact us!
 
