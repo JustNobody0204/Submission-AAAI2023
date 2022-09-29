@@ -1,4 +1,4 @@
-# Randomized Sharpness-Aware Training for Boosting Computational Efficiency in Deep Learning (AAAI2023)
+# Randomized Sharpness-Aware Training for Boosting Computational Efficiency in Deep Learning (ICLR2023)
 
 The project runs on JAX. The virtual env should be installed based on the requirements.txt in the first place. And one could launch the training via
 ***
