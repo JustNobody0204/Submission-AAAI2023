@@ -103,9 +103,9 @@ def get_basic_config() -> ml_collections.ConfigDict:
     config.use_test_set=True
     config.use_additional_skip_connections_in_wrn = False
     config.no_weight_decay_on_bn = False
-    config.tfds_dir = "/home/zhaoyang0204/dataset/tensorflow_datasets"
-    config.imagenet_train_dir = "/home/zhaoyang0204/dataset/imagenet/imagenet_train"
-    config.imagenet_val_dir = "/home/zhaoyang0204/dataset/imagenet/imagenet_val"
+    config.tfds_dir = None
+    config.imagenet_train_dir = None
+    config.imagenet_val_dir = None
 
     return config.lock()
 
