@@ -1,0 +1,1 @@
+This is the training log of Sparse SAM using git repo https://github.com/Mi-Peng/Sparse-Sharpness-Aware-Minimization.
